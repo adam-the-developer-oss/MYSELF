@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Antti-dev
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning css and html
-- 💞️ I’m looking to collaborate with all kinds of people
-- 📫 How to reach me on Discord a_n_t_i___
+- 👋 Hi, I’m @Yardi
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning Development
+- 💞️ I’m looking to collaborate with visionaires and people with creative new ideas
+- 📫 How to reach me on Discord vrellaardi@gmail.com 
 
 <!---
 Antti-dev/Antti-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
