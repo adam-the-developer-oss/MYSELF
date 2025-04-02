@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Development
 - 💞️ I’m looking to collaborate with visionaires and people with creative new ideas
-- 📫 How to reach me on Discord vrellaardi@gmail.com 
+- 📫 How to reach me on mail vrellaardi@gmail.com 
 
 <!---
 Antti-dev/Antti-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
